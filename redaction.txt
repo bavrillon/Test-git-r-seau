@@ -1,7 +1,5 @@
 Titre
 
-
-
-CHAPITRE B :
-Ceci est ma contribution à l'ouvrage
+Chapitre H
+Une ligne en plus ...
 J'ajoute un petit qqch
